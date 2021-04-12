@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 telegram: https://t.me/resmaeelzade
 instagram: https://instagram.com/resmaeelzade
-twittwe: https://twitter.com/resmaeelzade
+twitter: https://twitter.com/resmaeelzade
 
 <!---
 reza-esmaeel-zade/reza-esmaeel-zade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
