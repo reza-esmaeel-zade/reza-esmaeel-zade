@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @reza-esmaeel-zade
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning html/css/javascript/python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 telegram: https://t.me/resmaeelzade
-instagram: https://instagram.com/resmaeelzade
+instagram: https://instagram.com/resmaeelzade X Currently disabled
 twitter: https://twitter.com/resmaeelzade
 
 <!---
