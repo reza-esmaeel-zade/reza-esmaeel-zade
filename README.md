@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning R
 - 📫 How to reach me 
-  - telegram: <a href="tg://resolve?domain=esmaeelzader">telegram</a>
+  - telegram: <tg://resolve?domain=esmaeelzader>
   - instagram: https://instagram.com/resmaeelzade X Currently disabled
   - twitter: https://twitter.com/resmaeelzade
 
